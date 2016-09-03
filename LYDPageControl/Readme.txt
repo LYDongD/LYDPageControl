@@ -1,0 +1,2 @@
+LYDPageControl仿照系统的UIPageControl，并对自定义图片做了特别的支持
+详情参见LYDPageControl.h当中的注释
